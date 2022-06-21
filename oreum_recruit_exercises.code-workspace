@@ -1,0 +1,11 @@
+{
+	"folders": [
+		{
+			"path": "."
+		}
+	],
+	"settings": {"python.defaultInterpreterPath": "/opt/miniconda/envs/oreum_recruit_exercises/bin/python"}
+}
+
+// Note cant set Jupyter Kernel https://stackoverflow.com/q/67516550/1165112
+// Note new defaultInterpreterPath https://stackoverflow.com/a/68235726/1165112
